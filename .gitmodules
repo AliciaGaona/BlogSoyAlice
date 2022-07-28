@@ -3,7 +3,7 @@
 	url = git@github.com:AliciaGaona/hugo-theme-sam.git
 [submodule "public"]
 	path = public
-	url = git@github.com:AliciaGaona/Pokedex.git
+	url = git@github.com:AliciaGaona/SoyAlice.git
 [submodule "hugo-theme-sam"]
 	path = hugo-theme-sam
 	url = git@github.com:AliciaGaona/hugo-theme-sam.git
