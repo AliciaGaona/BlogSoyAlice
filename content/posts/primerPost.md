@@ -1,9 +1,26 @@
 ---
-title: "Primer Post"
-date: 2022-08-10
+title: "Igualdades regulares y estrictas en JS"
+date: 2022-05-1
 showDate: true
 draft: false
-tags: ["classic","story"]
+tags: ["classic","aprendizaje"]
 ---
 
-Mi primer post con tema de Sam
+## Igualdad regular (==)
+
+- Intenta convertir los valores a un mismo tipo de dato antes de compararlos.
+
+## Igualdad estrcita (===) 
+
+- Verifica si dos operandos son iguales y produce un resultado Booleano.
+
+- Usan el Algoritmo Estricto Comparativo de Igualdad  para comparar dos operandos.
+
+_SI LOS DOS VALORES A COMPARAR CON IGUALES DA TRUE NO IMPORTA EL TIPO_
+
+if(a===a) => true
+
+_SI LOS DOS VALORES A COMPARAR SON DISTINTOS DEVUELVE FALSE_
+
+if(a===b) => false
+
