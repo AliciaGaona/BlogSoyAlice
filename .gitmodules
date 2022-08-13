@@ -5,3 +5,6 @@
 [submodule "hugo-theme-sam"]
 	path = hugo-theme-sam
 	url = git@github.com:AliciaGaona/hugo-theme-sam.git
+[submodule "themes/hugo-theme-monochrome"]
+	path = themes/hugo-theme-monochrome
+	url = git@github.com:AliciaGaona/hugo-theme-monochrome.git
